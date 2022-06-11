@@ -2,35 +2,35 @@
 
 Your Pet Care is an android based application that serves all needs related to all pets like dogs and cats it has pet shop features that can be bought online, pet detection, vet consultation, and many more.
 
-<div style="text-align: center;"><img src="https://drive.google.com/uc?export=view&id=1CmBzLhC8ljjB2jcjmYOb2vUIMDb2SQEA"/></div>
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1CmBzLhC8ljjB2jcjmYOb2vUIMDb2SQEA"/></p>
 
 # Project Structures
 
-📦yourpetcare-ml
-┣ 📂sample_images
-┃ ┣ 📜test1.jpg
-┃ ┣ 📜test2.jpg
-┃ ┣ 📜test3.jpg
-┃ ┣ 📜test4.jpg
-┃ ┣ 📜test5.jpg
-┃ ┣ 📜test6.jpg
-┃ ┣ 📜test7.jpg
-┃ ┗ 📜test8.jpg
-┣ 📂saved_model
-┃ ┣ 📂assets
-┃ ┣ 📂variables
-┃ ┃ ┣ 📜variables.data-00000-of-00001
-┃ ┃ ┗ 📜variables.index
-┃ ┣ 📜keras_metadata.pb
-┃ ┗ 📜saved_model.pb
-┣ 📂tensorflow_lite
-┃ ┣ 📜resnet50_ypc_fp32.tflite
-┃ ┗ 📜tflite_ypc.ipynb
-┣ 📜.gitattributes
-┣ 📜.gitignore
-┣ 📜labels.txt
-┣ 📜README.md
-┗ 📜Your_Pet_Care.ipynb
+📦yourpetcare-ml <br/>
+┣ 📂sample_images - [sample images from google]<br/>
+┃ ┣ 📜test1.jpg <br/>
+┃ ┣ 📜test2.jpg <br/>
+┃ ┣ 📜test3.jpg <br/>
+┃ ┣ 📜test4.jpg <br/>
+┃ ┣ 📜test5.jpg <br/>
+┃ ┣ 📜test6.jpg <br/>
+┃ ┣ 📜test7.jpg <br/>
+┃ ┗ 📜test8.jpg <br/>
+┣ 📂saved_model - [model]<br/>
+┃ ┣ 📂assets <br/>
+┃ ┣ 📂variables <br/>
+┃ ┃ ┣ 📜variables.data-00000-of-00001 <br/>
+┃ ┃ ┗ 📜variables.index <br/>
+┃ ┣ 📜keras_metadata.pb <br/>
+┃ ┗ 📜saved_model.pb <br/>
+┣ 📂tensorflow_lite - [tensorflow lite] <br/>
+┃ ┣ 📜resnet50_ypc_fp32.tflite <br/>
+┃ ┗ 📜tflite_ypc.ipynb <br/>
+┣ 📜.gitattributes <br/>
+┣ 📜.gitignore <br/>
+┣ 📜labels.txt <br/>
+┣ 📜README.md <br/>
+┗ 📜Your_Pet_Care.ipynb - [base notebook] <br/>
 
 # Machine Learning
 
