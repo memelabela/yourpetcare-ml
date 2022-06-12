@@ -1,8 +1,8 @@
 # Your Pet Care
 
-Your Pet Care is an android based application that serves all needs related to all pets like dogs and cats it has pet shop features that can be bought online, pet detection, vet consultation, and many more.
-
 <p align="center"><img src="https://drive.google.com/uc?export=view&id=1CmBzLhC8ljjB2jcjmYOb2vUIMDb2SQEA"/></p>
+
+Your Pet Care is an android based application that serves all needs related to all pets like dogs and cats it has pet shop features that can be bought online, pet detection, vet consultation, and many more.
 
 # Project Structures
 
